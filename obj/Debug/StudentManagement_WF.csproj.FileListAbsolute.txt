@@ -1,0 +1,11 @@
+D:\WorkSpace\CC-MTPTPM\StudentManagement_WF\bin\Debug\StudentManagement_WF.exe.config
+D:\WorkSpace\CC-MTPTPM\StudentManagement_WF\bin\Debug\StudentManagement_WF.exe
+D:\WorkSpace\CC-MTPTPM\StudentManagement_WF\bin\Debug\StudentManagement_WF.pdb
+D:\WorkSpace\CC-MTPTPM\StudentManagement_WF\obj\Debug\StudentManagement_WF.csproj.AssemblyReference.cache
+D:\WorkSpace\CC-MTPTPM\StudentManagement_WF\obj\Debug\StudentManagement_WF.Properties.Resources.resources
+D:\WorkSpace\CC-MTPTPM\StudentManagement_WF\obj\Debug\StudentManagement_WF.csproj.GenerateResource.cache
+D:\WorkSpace\CC-MTPTPM\StudentManagement_WF\obj\Debug\StudentManagement_WF.csproj.CoreCompileInputs.cache
+D:\WorkSpace\CC-MTPTPM\StudentManagement_WF\obj\Debug\StudentManagement_WF.exe
+D:\WorkSpace\CC-MTPTPM\StudentManagement_WF\obj\Debug\StudentManagement_WF.pdb
+D:\WorkSpace\CC-MTPTPM\StudentManagement_WF\obj\Debug\StudentManagement_WF.exe.config
+D:\WorkSpace\CC-MTPTPM\StudentManagement_WF\obj\Debug\StudentManagement_WF.frmStudent.resources
